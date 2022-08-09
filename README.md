@@ -1,4 +1,6 @@
-### Hi there 👋
+## 💬 About me 
+---
+Hey there, I'm Anthony and I'm a Software Engineer. I know HTML, CSS, JavaScript, PostgreSQL, Express, React, Node, and more, but I'm always looking to learn more about new tools and technologies!
 
 <!--
 **AnthonyVNgo/AnthonyVNgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
