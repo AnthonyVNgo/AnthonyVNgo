@@ -15,8 +15,8 @@ Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/anthony-ngo-480564114/)
 
 My Articles
-* 
-*
+* [Q&A Sessions: Insights for New Software Engineers](https://www.linkedin.com/pulse/qa-sessions-insights-new-software-engineers-anthony-ngo/)
+* [Q&A Sessions: What Do I Do After My Coding Bootcamp?](https://www.linkedin.com/pulse/qa-sessions-what-do-i-after-my-coding-bootcamp-anthony-ngo/)
 
 <!--
 **AnthonyVNgo/AnthonyVNgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
