@@ -1,6 +1,22 @@
 ## 💬 About me 
 ---
 Hey there, I'm Anthony and I'm a Software Engineer. I know HTML, CSS, JavaScript, PostgreSQL, Express, React, Node, and more, but I'm always looking to learn more about new tools and technologies!
+<br/><br/>
+
+:roller_coaster: Road to SWE
+
+Food Service :arrow_right:  Patient Care Coordinator :arrow_right: Admissions Consultant :arrow_right: Software Engineer
+
+Fun Facts
+* I lived in Hanoi, Vietnam for 2 years
+* I practice Brazilian Jiu Jitsu & Salsa
+
+Let's Connect
+* [LinkedIn](https://www.linkedin.com/in/anthony-ngo-480564114/)
+
+My Articles
+* 
+*
 
 <!--
 **AnthonyVNgo/AnthonyVNgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
