@@ -6,15 +6,18 @@ Hey there, I'm Anthony and I'm a Software Engineer. I know HTML, CSS, JavaScript
 :roller_coaster: Road to SWE
 
 Food Service :arrow_right:  Patient Care Coordinator :arrow_right: Admissions Consultant :arrow_right: Software Engineer
+<br/><br/>
 
-Fun Facts
+⚡ Fun Facts
 * I lived in Hanoi, Vietnam for 2 years
 * I practice Brazilian Jiu Jitsu & Salsa
+<br/><br/>
 
-Let's Connect
+:mailbox: Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/anthony-ngo-480564114/)
+<br/><br/>
 
-My Articles
+:pencil: My Articles
 * [Q&A Sessions: Insights for New Software Engineers](https://www.linkedin.com/pulse/qa-sessions-insights-new-software-engineers-anthony-ngo/)
 * [Q&A Sessions: What Do I Do After My Coding Bootcamp?](https://www.linkedin.com/pulse/qa-sessions-what-do-i-after-my-coding-bootcamp-anthony-ngo/)
 
