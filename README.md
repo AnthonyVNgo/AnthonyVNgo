@@ -1,7 +1,7 @@
 [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyvngo)](https://github.com/anthonyvngo/github-readme-stats)
 
 ## 💬 About me 
-Hey there, I'm Anthony and I'm a Software Engineer. I know HTML, CSS, JavaScript, PostgreSQL, Express, React, Node, and more, but I'm always looking to learn more about new tools and technologies!
+Hey there, I'm Anthony and I'm a Software Engineer. I know HTML, CSS, JavaScript, PostgreSQL, Express, React, Vue, Node, and more, but I'm always looking to learn more about new tools and technologies!
 <br/><br/>
 
 ## :roller_coaster: Road to SWE
@@ -10,7 +10,7 @@ Food Service :arrow_right:  Patient Care Coordinator :arrow_right: Admissions Co
 <br/><br/>
 
 ## :wrench: Technologies
-* Front-end development through HTML, CSS, Bootstrap, & React
+* Front-end development through HTML, CSS, Bootstrap, Tailwind, Vuetify, Vue, & React
 * Back-end development using Node.js, Express, & PostgreSQL
 * Tools used on projects include npm, Babel, Webpack, Git, GitHub, Argon2, JWT, & multer
 <br/><br/>
