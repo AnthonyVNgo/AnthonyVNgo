@@ -1,5 +1,3 @@
-[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyvngo)](https://github.com/anthonyvngo/github-readme-stats)
-
 ## 💬 About me 
 Hey there, I'm Anthony and I'm a Software Engineer. I know HTML, CSS, JavaScript, PostgreSQL, Express, React, Vue, Node, and more, but I'm always looking to learn more about new tools and technologies!
 <br/><br/>
