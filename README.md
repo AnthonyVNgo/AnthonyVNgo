@@ -14,6 +14,7 @@ Food Service :arrow_right:  Patient Care Coordinator :arrow_right: Admissions Co
 <br/><br/>
 
 ## :pencil: My Articles
+* [One Year Later: What Do I Do After My Coding Bootcamp?](https://www.linkedin.com/pulse/one-year-later-what-do-i-after-my-coding-bootcamp-anthony-ngo/?trackingId=mWCAo%2FOYSLKlDrbgjGExvg%3D%3D)
 * [Q&A Sessions: Insights for New Software Engineers](https://www.linkedin.com/pulse/qa-sessions-insights-new-software-engineers-anthony-ngo/)
 * [Q&A Sessions: What Do I Do After My Coding Bootcamp?](https://www.linkedin.com/pulse/qa-sessions-what-do-i-after-my-coding-bootcamp-anthony-ngo/)
 <br/><br/>
