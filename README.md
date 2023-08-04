@@ -8,7 +8,7 @@ Food Service :arrow_right:  Patient Care Coordinator :arrow_right: Admissions Co
 <br/><br/>
 
 ## 👾 Ongoing Projects
-*[BJJIndex](https://bjjindex.vercel.app/)
+* [BJJIndex](https://bjjindex.vercel.app/)
 
 
 ## :wrench: Technologies
