@@ -8,8 +8,8 @@ Food Service :arrow_right:  Patient Care Coordinator :arrow_right: Admissions Co
 <br/><br/>
 
 ## 👾 Ongoing Projects
-* [BJJIndex](https://bjjindex.vercel.app/)
-
+* [www.BJJIndex.com](https://www.bjjindex.com/)
+<br/><br/>
 
 ## :wrench: Technologies
 * Front-end development through HTML, CSS, Bootstrap, Tailwind, Vuetify, Vue, & React
