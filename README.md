@@ -9,6 +9,7 @@ Food Service :arrow_right:  Patient Care Coordinator :arrow_right: Admissions Co
 
 ## 👾 Ongoing Projects
 * [www.BJJIndex.com](https://www.bjjindex.com/)
+* My custom [Dot NFC card](https://dotcards.net/) & [Linktree](https://linktr.ee/) copycat
 <br/><br/>
 
 ## :wrench: Technologies
