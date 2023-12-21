@@ -8,6 +8,7 @@ Food Service :arrow_right:  Patient Care Coordinator :arrow_right: Admissions Co
 <br/><br/>
 
 ## 👾 Ongoing Projects
+* Currently working with my local chamber of commerce members, coworking space, and professional network on developing an online community and website (ideation)
 * [www.BJJIndex.com](https://www.bjjindex.com/)
 * My custom [Dot NFC card](https://dotcards.net/) & [Linktree](https://linktr.ee/) copycat
 <br/><br/>
@@ -27,6 +28,7 @@ Food Service :arrow_right:  Patient Care Coordinator :arrow_right: Admissions Co
 ## ⚡ Fun Facts
 * I lived in Hanoi, Vietnam for 2 years
 * I practice Brazilian Jiu Jitsu & Salsa
+* I've trained muay thai in Thailand
 <br/><br/>
 
 ## :mailbox: Let's Connect
